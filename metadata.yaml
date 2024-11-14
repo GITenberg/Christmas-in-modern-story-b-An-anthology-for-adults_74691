@@ -1,0 +1,46 @@
+_repo: Christmas-in-modern-story-b-An-anthology-for-adults_74691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Bemis, Katharine Isabel
+    aliases:
+    - Bemis, Katharine I. (Katharine Isabel)
+    - Bemis, K. I. (Katharine Isabel)
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '57554'
+    url: http://www.gutenberg.org/2009/agents/57554
+  - agent_name: Van Buren, Maud
+    alias: Buren, Maud van
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '57553'
+    url: http://www.gutenberg.org/2009/agents/57553
+description: ''
+gutenberg_issued: '2024-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74691'
+language: en
+pgterms:marc904: https://archive.org/details/christmasinmoder0000maud/page/n3/mode/2up
+pgterms:marc905: 20230321043658various
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, Chris Miceli and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Century Co., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Christmas in modern story : $b An anthology for adults'
+url: http://www.gutenberg.org/ebooks/74691
